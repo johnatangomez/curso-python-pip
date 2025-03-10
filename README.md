@@ -6,3 +6,12 @@ Para correr el juego de piedra papel o tijera debes seguir los siguientes pasos 
 cd game
 python3 main.py
 ```
+# App project
+
+```sh
+git clone
+cd app
+source env/binactivate
+pip install -r requierements.txt
+python main.py
+```
